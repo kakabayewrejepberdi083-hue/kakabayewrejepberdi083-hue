@@ -1,4 +1,4 @@
- markdown# Hi there, I'm Rejep! 👋
+<h1 align="center">Hi there, I'm Rejep! 👋</h1>
 
 I am an aspiring **Frontend Developer** passionately building user-friendly, responsive, and visually appealing web experiences. I am highly motivated, eager to learn, and currently seeking my first professional role in the software industry to contribute, grow, and build impactful projects.
 
